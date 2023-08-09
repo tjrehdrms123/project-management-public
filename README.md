@@ -7,7 +7,7 @@
 
 
 # ✨ 서비스 페이지
-서비스 종료 : ~~[project.donggeun.co.kr](project.donggeun.co.kr)~~
+서비스 종료 : ~~[https://project.donggeun.co.kr](https://project.donggeun.co.kr)~~
 
 
 <br/>
